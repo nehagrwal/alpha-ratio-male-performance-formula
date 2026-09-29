@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/alpha-ratio-male-performance-formula/sitemap.xml
+Sitemap: https://alpha-ratio-male-performance-formula.vercel.app/sitemap-vercel.xml
+Sitemap: https://alpha-ratio-male-performance-formula.pages.dev/sitemap-cloudflare.xml
